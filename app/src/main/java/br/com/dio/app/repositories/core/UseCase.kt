@@ -1,9 +1,11 @@
 package br.com.dio.app.repositories.core
 
+import br.com.dio.app.repositories.data.model.Repo
 import kotlinx.coroutines.flow.Flow
+import retrofit2.Call
 
 abstract class UseCase<Param, Source> {
-    abstract suspend fun execute(param: Param): Flow<Source>
+    abstract suspend fun execute(param: Param): Flow<List<Repo>>
 
     open suspend operator fun invoke(param: Param) = execute(param)
 

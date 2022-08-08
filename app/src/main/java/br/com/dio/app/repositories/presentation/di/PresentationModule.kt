@@ -8,13 +8,16 @@ import org.koin.dsl.module
 
 object PresentationModule {
 
-    fun load() {
+
+    fun load(){
         loadKoinModules(viewModelModule())
     }
 
-    private fun viewModelModule(): Module {
+    fun viewModelModule(): Module {
         return module {
-            viewModel { MainViewModel(get()) }
+            viewModel {
+                MainViewModel(get())
+            }
         }
     }
 }

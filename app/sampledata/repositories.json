@@ -1,124 +1,90 @@
 {
   "data": [
     {
-      "id": 81223601,
-      "name": "android-DocumentCentricApps",
+      "id": 521440957,
+      "name": "business_Card",
       "owner": {
-        "login": "EzequielMessore",
-        "avatar_url": "https://avatars.githubusercontent.com/u/11234992?v=4"
+        "login": "suellenmuniz",
+        "avatar_url": "https://api.github.com/users/suellenmuniz"
       },
       "stargazers_count": 0,
-      "language": "Java",
-      "html_url": "https://github.com/EzequielMessore/android-DocumentCentricApps",
-      "description": "description"
+      "language": "kotlin",
+      "html_url": "https://avatars.githubusercontent.com/u/108498825?v=4",
+      "description": "App de cartão de visitas - desafio DIO"
     },
     {
-      "id": 178429138,
-      "name": "android-guidelines",
+      "id": 517835087,
+      "name": "soocer-news",
       "owner": {
-        "login": "EzequielMessore",
-        "avatar_url": "https://avatars.githubusercontent.com/u/11234992?v=4"
+        "login": "suellenmuniz",
+        "avatar_url": "https://avatars.githubusercontent.com/u/108498825?v=4"
       },
-      "html_url": "https://github.com/EzequielMessore/android-guidelines",
-      "description": "Architecture and code guidelines we use at ribot when developing for Android",
+      "html_url": "https://github.com/suellenmuniz/soocer-news",
+      "description": "Desafio da Dio ",
       "stargazers_count": 0,
-      "language": "guideline"
-    },
-    {
-      "id": 183915325,
-      "name": "android-testing",
-      "owner": {
-        "login": "EzequielMessore",
-        "avatar_url": "https://avatars.githubusercontent.com/u/11234992?v=4"
-      },
-      "html_url": "https://github.com/EzequielMessore/android-testing",
-      "description": "A collection of samples demonstrating different frameworks and techniques for automated testing",
-      "stargazers_count": 1,
       "language": "Java"
     },
     {
-      "id": 378749135,
-      "name": "app-repositories",
+      "id": 514826070,
+      "name": "Collections",
       "owner": {
-        "login": "EzequielMessore",
-        "avatar_url": "https://avatars.githubusercontent.com/u/11234992?v=4"
+        "login": "suellenmuniz",
+        "avatar_url": "https://avatars.githubusercontent.com/u/108498825?v=4"
       },
-      "html_url": "https://github.com/EzequielMessore/app-repositories",
-      "description": "empty description",
-      "stargazers_count": 2,
+      "html_url":  "https://github.com/suellenmuniz/Collections",
+      "description": "created int array test class",
+      "stargazers_count": 0,
+      "language": "kotlin"
+    },
+    {
+      "id": 510915158,
+      "name": "desafio-dio-git",
+      "owner": {
+        "login": "suellenmuniz",
+        "avatar_url": "https://avatars.githubusercontent.com/u/108498825?v=4"
+      },
+      "html_url":  "https://github.com/suellenmuniz/desafio-dio-git",
+      "description":  "Projeto dio git/github",
+      "stargazers_count": 0,
+      "language": "null"
+    },
+    {
+      "id": 519883741,
+      "name": "IMC_App",
+      "owner": {
+        "login": "suellenmuniz",
+        "avatar_url": "https://avatars.githubusercontent.com/u/108498825?v=4"
+      },
+      "html_url":  "https://github.com/suellenmuniz/IMC_App",
+      "description": "Criando calculadora IMC ",
+      "stargazers_count": 0,
       "language": "Kotlin"
     },
     {
-      "id": 63367755,
-      "name": "avaliacao-ios",
+      "id": 516016381,
+      "name": "matches-simulator-api",
       "owner": {
-        "login": "EzequielMessore",
+        "login": "suellenmuniz",
         "avatar_url": "https://avatars.githubusercontent.com/u/11234992?v=4"
       },
-      "html_url": "https://github.com/EzequielMessore/avaliacao-ios",
-      "description": "empty description",
-      "stargazers_count": 3,
-      "language": "Objective-C"
+      "html_url": "https://github.com/suellenmuniz/matches-simulator-api",
+      "description": "Repositório que simula uma API REST para obtenção de partidas",
+      "stargazers_count": 0,
+      "language": "null"
     },
+
     {
-      "id": 63448974,
-      "name": "avaliacao-ios-manual",
+      "id": 521933676,
+      "name": "Repo-GitHub",
       "owner": {
-        "login": "EzequielMessore",
-        "avatar_url": "https://avatars.githubusercontent.com/u/11234992?v=4"
+        "login": "suellenmuniz",
+        "avatar_url": "https://avatars.githubusercontent.com/u/108498825?v=4"
       },
-      "html_url": "https://github.com/EzequielMessore/avaliacao-ios-manual",
-      "description": "empty description",
-      "stargazers_count": 7,
-      "language": "Objective-C"
-    },
-    {
-      "id": 263680765,
-      "name": "base-redcode",
-      "owner": {
-        "login": "EzequielMessore",
-        "avatar_url": "https://avatars.githubusercontent.com/u/11234992?v=4"
-      },
-      "html_url": "https://github.com/EzequielMessore/base-redcode",
-      "description": "empty description",
-      "stargazers_count": 1,
-      "language": "Empty"
-    },
-    {
-      "id": 183948239,
-      "name": "BaseJetpack",
-      "owner": {
-        "login": "EzequielMessore",
-        "avatar_url": "https://avatars.githubusercontent.com/u/11234992?v=4"
-      },
-      "html_url": "https://github.com/EzequielMessore/BaseJetpack",
-      "description": "Examples with Jetpack components",
-      "stargazers_count": 2,
-      "language": "Kotlin"
-    },
-    {
-      "id": 265040807,
-      "name": "Chuck-Norris-Facts",
-      "owner": {
-        "login": "EzequielMessore",
-        "avatar_url": "https://avatars.githubusercontent.com/u/11234992?v=4"
-      },
-      "html_url": "https://github.com/EzequielMessore/Chuck-Norris-Facts",
-      "description": "An Android client for the Chuck Norris facts API",
-      "stargazers_count": 5,
-      "language": "Kotlin"
-    },
-    {
-      "id": 369822554,
-      "name": "coin-converter",
-      "owner": {
-        "login": "EzequielMessore",
-        "avatar_url": "https://avatars.githubusercontent.com/u/11234992?v=4"
-      },
-      "html_url": "https://github.com/EzequielMessore/coin-converter",
-      "description": "empty description",
-      "stargazers_count": 1,
-      "language": "Kotlin"
+      "html_url": "https://github.com/suellenmuniz/Repo-GitHub",
+      "description": "Apresentação do meu portfólio GitHub - Desafio DIO",
+      "stargazers_count": 0,
+      "language": "null"
     }
+
   ]
 }
